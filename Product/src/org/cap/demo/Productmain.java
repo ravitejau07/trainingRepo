@@ -8,5 +8,6 @@ public static void main(String[] args) {
 }
 public static void greetings(){
 	System.out.println("from main");
+	System.out.println("first change");
 }
 }
